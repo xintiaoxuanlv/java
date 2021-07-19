@@ -1,9 +1,13 @@
-# Java for termux 
-# Steps
-1.mv java/openjdk/java /data/data/com.termux/files/usr/bin
+<h1 align="center">
+  <img src="https://camo.githubusercontent.com/79fa373eacd7f207f387514eb0aa0c80ee66c1ce12fc5a5ccab5aa01c0482976/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763547545645a5345364b5f39514a716662442d6b7777665745636a754a354745433473577726757371703d434155" alt="Preview" />
+</h1>
 
-2.Now you can execute java
+**Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.**
 
-# Hello I am Lokesh (devil - admin of hax4us channel & website )
+> ## Java for Android ( Only for Android < Oreo )
 
-# This is a try to use java easily in termux plz dont put my hardwork into dustbean by copying my work :D thnx
+> **[`Install Command`](#)**
+```
+sh installjava
+```
+
